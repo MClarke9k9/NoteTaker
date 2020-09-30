@@ -3,6 +3,8 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background: url('/Users/Power/NoteTaker/public/assets/css/joanna-kosinska-1_CMoFsPfso-unsplash.jpg') no-repeat center fixed;
+    background-size: cover;
 }
 
 .save-note {
